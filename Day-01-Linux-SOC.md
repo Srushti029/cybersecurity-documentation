@@ -25,7 +25,7 @@ I completed beginner-level Linux challenges and focused on how SOC analysts use 
 ## Key Commands Practiced
 
 ### Basic Navigation
-```bash
+
 ls
 cd
 pwd
