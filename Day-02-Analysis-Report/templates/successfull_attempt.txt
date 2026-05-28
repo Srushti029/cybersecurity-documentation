@@ -1,0 +1,2 @@
+E102,session opened for user <*> by (uid=<*>)
+E103,session opened for user <*> by LOGIN(uid=<*>)
