@@ -1,0 +1,5 @@
+E15,authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=
+E16,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=<*>
+E17,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=<*>  user=guest
+E18,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=<*>  user=root
+E19,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=<*>  user=test
